@@ -18,8 +18,10 @@ Also I used SwipeToRefresh library.When you will swipe Main View the app will do
 
 ![screen_mainActivity (1)](https://user-images.githubusercontent.com/66402503/85531094-c0489100-b60e-11ea-8e08-54f117fd242c.png)  
 <p>
+ 
 </p>
 <p>
+ 
 </p>
  
  To not overcomplicate each movie is put to cardView.
