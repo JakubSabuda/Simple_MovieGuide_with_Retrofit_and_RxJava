@@ -12,7 +12,7 @@ Movies taken from TMDB are only top 20 movies.(there are going to be updates in 
 Recyclerview
 Layout is done by using StaggeredGridLayout.
 
-ALl of the photos are loaded by using Glide Library.
+ALl of the photos are loaded by using [Glide Library](https://bumptech.github.io/glide/)
 
 Also I used SwipeToRefresh library.When you will swipe Main View the app will download all new data from TMDB.Then adapter will be notified about changes and the view will be updated.
 
@@ -37,7 +37,7 @@ Also I used SwipeToRefresh library.When you will swipe Main View the app will do
 
 ## Movie details activity
 
-![screen_detailActivity](https://user-images.githubusercontent.com/66402503/85537690-795d9a00-b614-11ea-81c3-c44e9f8eef37.png)
+![screen_detailActivity (2)](https://user-images.githubusercontent.com/66402503/85538595-541d5b80-b615-11ea-827c-31305aba59e5.png)
 
 
 ## Icon
