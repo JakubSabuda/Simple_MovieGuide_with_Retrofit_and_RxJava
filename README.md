@@ -13,8 +13,8 @@ Recyclerview
 Layout is done by using StaggeredGridLayout
 
 ![screen_mainActivity](https://user-images.githubusercontent.com/66402503/85529512-6c897800-b60d-11ea-955a-893f5e5d932c.png)
+![Movie detail](https://user-images.githubusercontent.com/66402503/85530764-7a8bc880-b60e-11ea-9d8f-c1be47714051.png)
 
-![Movie detail](https://user-images.githubusercontent.com/66402503/85530413-34cf0000-b60e-11ea-9e3d-47bf9e1130af.png)
 
 
 # Movie details activity
