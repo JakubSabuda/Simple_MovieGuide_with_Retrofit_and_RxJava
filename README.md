@@ -37,6 +37,11 @@ Also I used SwipeToRefresh library.When you will swipe Main View the app will do
 
 ## Movie details activity
 
+Poster is loading as well with the use of [Glide](https://bumptech.github.io/glide/)
+
+To generate the background like in the picture below.I used [Glide Transformation Library](https://github.com/wasabeef/glide-transformations).
+It simply takes the same photo as poster.Stretchest it by using *android:scaleType="fitXY"* and *android:adjustViewBounds="true"*.Than in .class I added BlurTransformation of 35 radius to blur the image.
+
 ![screen_detailActivity (2)](https://user-images.githubusercontent.com/66402503/85538595-541d5b80-b615-11ea-827c-31305aba59e5.png)
 
 
