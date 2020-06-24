@@ -57,9 +57,6 @@ Generated icon is clean and simple.Shape is circle(only).Padding is 35%, to make
 
 ![ic_launcher_movie](https://user-images.githubusercontent.com/66402503/85525687-96d93680-b609-11ea-8638-368cad867030.png)
 
-## Colors
-
-
 
 ### Future updates
 
