@@ -16,7 +16,7 @@ ALl of the photos are loaded by using Glide Library.
 
 Also I used SwipeToRefresh library.When you will swipe Main View the app will download all new data from TMDB.Then adapter will be notified about changes and the view will be updated.
 
-![screen_mainActivity (1)](https://user-images.githubusercontent.com/66402503/85531094-c0489100-b60e-11ea-8e08-54f117fd242c.png)
+![screen_mainActivity (1)](https://user-images.githubusercontent.com/66402503/85531094-c0489100-b60e-11ea-8e08-54f117fd242c.png)  
 
  
  
