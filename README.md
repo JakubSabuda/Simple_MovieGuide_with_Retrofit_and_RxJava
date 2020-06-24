@@ -13,6 +13,9 @@ Recyclerview
 Layout is done by using StaggeredGridLayout
 
 ![screen_mainActivity](https://user-images.githubusercontent.com/66402503/85529512-6c897800-b60d-11ea-955a-893f5e5d932c.png)
+![screen_mainActivity (1)](https://user-images.githubusercontent.com/66402503/85531094-c0489100-b60e-11ea-8e08-54f117fd242c.png)
+
+
 ![Movie detail](https://user-images.githubusercontent.com/66402503/85530764-7a8bc880-b60e-11ea-9d8f-c1be47714051.png)
 
 
