@@ -20,6 +20,7 @@ Also I used SwipeToRefresh library.When you will swipe Main View the app will do
 <br>
 <br>
 <br>
+<br>
  
  To not overcomplicate each movie is put to cardView.
  
