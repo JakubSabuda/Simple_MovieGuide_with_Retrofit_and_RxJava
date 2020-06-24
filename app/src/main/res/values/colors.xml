@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Jakub Sabuda on 6/24/20 9:17 AM
+  ~  Copyright (c) 2020 . All rights reserved.
+  ~  Last modified 6/23/20 8:53 AM
+  ~  API key is my private key don't use it. API key is given by TMDB
+  ~  Icon is generated thanks by https://romannurik.github.io
+  ~ */
+  -->
+
+<resources>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorPrimary">#616161</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorBackgroud">#9E9E9E</color>
+    <color name="colorBackgroundGray">#F5F5F5</color>
+    <color name="colorText">#424242</color>
+
+    <color name="colorMovieDetailsBackground">#282828</color>
+    <color name="colorMovieDetailsTextBig">#e2e2e2</color>
+</resources>

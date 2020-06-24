@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  Created by Jakub Sabuda on 6/24/20 9:19 AM
+  ~  Copyright (c) 2020 . All rights reserved.
+  ~  Last modified 6/21/20 8:10 PM
+  ~  API key is my private key don't use it. API key is given by TMDB
+  ~  Icon is generated thanks by https://romannurik.github.io
+  ~ */
+  -->
+
+<resources>
+    <string name="api_key">8f753f4867e2e65f38fd7fe1c3550781</string>
+</resources>
