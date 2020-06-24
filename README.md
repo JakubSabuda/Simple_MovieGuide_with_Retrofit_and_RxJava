@@ -16,6 +16,7 @@ ALl of the photos are loaded by using Glide Library.
 
 Also I used SwipeToRefresh library.When you will swipe Main View the app will download all new data from TMDB.Then adapter will be notified about changes and the view will be updated.
 
+<br>
 ![screen_mainActivity (1)](https://user-images.githubusercontent.com/66402503/85531094-c0489100-b60e-11ea-8e08-54f117fd242c.png)  
 <br>
 <br>
@@ -28,6 +29,7 @@ Also I used SwipeToRefresh library.When you will swipe Main View the app will do
  
  Last object in each cardView is movie tilte.Number of Lines is not limited the cardView will stretch.That's why StaggeredGridLayout comes in handy.
  
+ <br>
 ![Movie detail](https://user-images.githubusercontent.com/66402503/85530764-7a8bc880-b60e-11ea-9d8f-c1be47714051.png)
 
 
