@@ -62,5 +62,5 @@ Generated icon is clean and simple.Shape is circle(only).Padding is 35%, to make
 
 Right now app takes only top 20 movies.In future will be created menu that takes genres, years etc.
 
-As well there will be build ROOM database to save favourite movies or movies to watch later
+As well there will be build ROOM database to save favourite movies and movies to watch later
 
